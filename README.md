@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love watching American Reality Shows and playing online games...
 <img align="left" alt="HTML5" width="40px" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[![Twitter Follow](color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BijayBdrPaudel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BijayPaudel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BijayBdrPaudel)
 
