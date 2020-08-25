@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.
 - 🤔 I’m looking for help with Application Deployment process in Cloud Infrastructure.
 - 💬 Ask me about Javascript & Python related Stuffs.
-- 📫 How to reach me: 
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love watching American Reality Shows and playing online games...
 </br>
