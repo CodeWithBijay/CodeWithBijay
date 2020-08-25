@@ -1,5 +1,5 @@
 ### Hi!,I am Bijay Paudel 👋
-&nbsp;&nbsp;&nbsp;&nbsp;**## I'm a Developer and Student !**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**## I'm a Developer and Student !**
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning Python and its Framework like Django & Flask.
 - 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.
