@@ -1,14 +1,14 @@
 ### Hi!,I am Bijay Paudel 👋
 **### I'm a Developer and Student !**
 <hr>
-- 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.
-- 🤔 I’m looking for help with Application Deployment process in Cloud Infrastructure.
-- 💬 Ask me about Javascript & Python related Stuffs.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love watching American Reality Shows and playing online games...
-- 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning Python and its Framework like Django & Flask.
+<p>- 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.</p>
+<p>- 🤔 I’m looking for help with Application Deployment process in Cloud Infrastructure.</p>
+<p>- 💬 Ask me about Javascript & Python related Stuffs.</p>
+<p>- 🥅 2020 Goals: Contribute more to Open Source projects</p>
+<p>- 😄 Pronouns: He/His.</p>
+<p>- ⚡ Fun fact: I love watching American Reality Shows and playing online games...</p>
+<p>- 🔭 I’m currently working on Full Stack Web Development.</p>
+<p>- 🌱 I’m currently learning Python and its Framework like Django & Flask.</p>
 </br>
 </br>
 ### Programming Languages and Developer Tools That I use:
