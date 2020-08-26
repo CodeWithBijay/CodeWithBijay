@@ -19,7 +19,7 @@
   <summary>:zap: Github Stats</summary>
   (https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-  <img align="left" alt="BIJAY's Github Stats" src="https://github-readme-stats.codewithbijay.vercel.app/api?username=CodeWithBijay&show_icons=true&hide_border=true" />
+  <img align="left" alt="BIJAY's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=CodeWithBijay&show_icons=true&hide_border=true" />
 
 </details>
 
