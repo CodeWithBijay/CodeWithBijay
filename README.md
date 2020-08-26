@@ -17,7 +17,7 @@
 </br>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="BIJAY's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" alt="BIJAY's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1515155" />
 
 </details>
 
