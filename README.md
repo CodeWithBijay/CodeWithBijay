@@ -1,5 +1,5 @@
-<p align="center">### Hi!,I am Bijay Paudel 👋
-**### I'm a Developer and Student !**</p>
+### Hi!,I am Bijay Paudel 👋
+**### I'm a Developer and Student !**
 - 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.
 - 🤔 I’m looking for help with Application Deployment process in Cloud Infrastructure.
 - 💬 Ask me about Javascript & Python related Stuffs.
