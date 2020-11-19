@@ -1,7 +1,6 @@
 ### Hi!,I am Bijay Paudel 👋
 **### I'm a Developer and Student!**
 <hr>
-<hr>
 <p>- 🔭 I’m currently working on Full Stack Web Development.</p>
 <p>- 👯 I’m looking to collaborate with other Developers to work on Interesting Projects.</p>
 <p>- 🤔 I’m looking for help with Application Deployment process in Cloud Infrastructure.</p>
